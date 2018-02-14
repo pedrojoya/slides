@@ -1,6 +1,6 @@
 # ESTO ES UNA PRUEBA
 
-—-
+------
 
 Esto es un código de bienvenida
 
